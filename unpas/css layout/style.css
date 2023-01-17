@@ -1,0 +1,27 @@
+.container {
+    width: 900px;
+    margin: auto;
+    box-sizing: border-box;
+    background-color: aliceblue;
+    padding-top: 20px;
+    padding-left: 10px;
+}
+
+h2 {
+    font-size: 50px;
+    margin-top: -10px;
+}
+
+ul {
+    margin-top: -15px;
+    margin-left: -10px;
+}
+
+ul li {
+    display: inline-block;
+    padding-right: 10px;
+}
+
+.clear {
+    clear: left;
+}
